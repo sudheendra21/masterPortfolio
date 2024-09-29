@@ -1,6 +1,7 @@
 import React from "react";
 import "./Greeting.css";
 import SocialMedia from "../../components/socialMedia/SocialMedia";
+// eslint-disable-next-line
 import Button from "../../components/button/Button";
 import { greeting } from "../../portfolio";
 import { Fade } from "react-reveal";
@@ -30,13 +31,13 @@ export default function Greeting(props) {
               </p>
               <SocialMedia theme={theme} />
               <div className="portfolio-repo-btn-div">
-                <Button
+                {/* <Button
                   text="⭐ Star Me On Github"
                   newTab={true}
                   href={greeting.portfolio_repository}
                   theme={theme}
                   className="portfolio-repo-btn"
-                />
+                /> */}
               </div>
               {/* <div className="button-greeting-div">
               <Button text="Contact me" href="#contact" />
@@ -47,7 +48,7 @@ export default function Greeting(props) {
           <div className="greeting-image-div">
             {/* <img
 							alt="saad sitting on table"
-							src={require("../../assets/images/feelingProud.svg")}
+							src={require("../../assets/images/Sudheendra.jpg")}
 						></img> */}
             <FeelingProud theme={theme} />
           </div>
