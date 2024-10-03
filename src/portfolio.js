@@ -385,6 +385,15 @@ const competitiveSites = {
       },
       profileLink: "https://www.hackerrank.com/profile/sudhisubnavis",
     },
+
+    {
+      siteName: "Trailhead",
+      iconifyClassname: "simple-icons:salesforce",
+      style: {
+        color: "#2EC866",
+      },
+      profileLink: "https://www.salesforce.com/trailblazer/ssubnavis",
+    },
   ],
 };
 
