@@ -411,7 +411,7 @@ const degrees = {
       duration: "2017 - 2021",
       descriptions: [
         "⚡ I have studied core subjects like Data Structures, Algorithms, DBMS, Operating Systems, Networking, Machine Learning, Compiler Design",
-        "⚡ Memeber of Team Bi0s , a CTF team from Amrita University",
+        "⚡ Member of Team Bi0s , a CTF team from Amrita University",
         "⚡ Organized Vidyuth CTF, a Capture the Flag competition for students",
         "⚡ Volunteered as event coordinator for the college fest",
       ],
