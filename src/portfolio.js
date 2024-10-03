@@ -390,7 +390,7 @@ const competitiveSites = {
       siteName: "Trailhead",
       iconifyClassname: "simple-icons:salesforce",
       style: {
-        color: "#2EC866",
+        color: "#00A1E9",
       },
       profileLink: "https://www.salesforce.com/trailblazer/ssubnavis",
     },
