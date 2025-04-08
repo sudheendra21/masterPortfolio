@@ -606,6 +606,17 @@ const experience = {
       title: "Internships",
       experiences: [
         {
+          title: "Software Engineer Co-op",
+          company: "Physis Investment",
+          company_url: "https://www.physisinvestment.com/",
+          logo_path: "resideo.jpg",
+          duration: "January 2025 - April 2025",
+          location: "Boston, MA, USA",
+          description:
+            "Architected and implemented a scalable microservices-based REST API using Go, integrating GCP OAuth2.0, Redis, Elasticsearch, and RabbitMQ, with Docker Compose orchestration for efficient deployment and scaling",
+          color: "#000000",
+        },
+        {
           title: "Software Engineering Intern",
           company: "Resideo",
           company_url: "https://www.tiktok.com/en/",
