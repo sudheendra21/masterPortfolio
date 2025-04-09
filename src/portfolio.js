@@ -609,7 +609,7 @@ const experience = {
           title: "Software Engineer Co-op",
           company: "Physis Investment",
           company_url: "https://www.physisinvestment.com/",
-          logo_path: "resideo.jpg",
+          logo_path: "physis.png",
           duration: "January 2025 - April 2025",
           location: "Boston, MA, USA",
           description:
