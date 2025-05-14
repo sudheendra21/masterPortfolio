@@ -613,7 +613,7 @@ const experience = {
           duration: "January 2025 - April 2025",
           location: "Boston, MA, USA",
           description:
-            "Architected and implemented a scalable microservices-based REST API using Go, integrating GCP OAuth2.0, Redis, Elasticsearch, and RabbitMQ, with Docker Compose orchestration for efficient deployment and scaling",
+            "Developed an advanced LLM-based RAG system for extracting ESG insights from massive datasets while implementing secure, scalable cloud infrastructure on AWS using Terraform and Kubernetes. Automated CI/CD pipelines reducing deployment time by 50% and optimized web performance through React.js and Redis caching.",
           color: "#000000",
         },
         {
